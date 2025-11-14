@@ -11,6 +11,7 @@ html{
 h1{
    font-size: 300%; 
    font-weight: 100;
+    text-align: center;
 }
 
 div.header{
@@ -32,4 +33,5 @@ div.header{
         padding: 5px;
         text-align:center ;
         font-weight: 400;
+
     }
